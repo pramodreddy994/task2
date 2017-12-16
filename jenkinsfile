@@ -1,4 +1,3 @@
-razz [3:03 PM] 
 pipeline {
    agent any
    
